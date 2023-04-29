@@ -1,6 +1,6 @@
-baseURL = "https://hugo-paper.vercel.app/"
+baseURL = "https://serenityCD/youyan/"
 # title = "Hugo Themes"
-author = "Steve Francia"
+author = "又延"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 paginate = 3
 languageCode = "en"
@@ -12,18 +12,15 @@ ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
 theme = "hugo-paper"
-title = "Paper"
+title = "又延"
 
 [params]
   color = 'linen'
 
-  twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
-  instagram = 'nan.xiaobei'
 
-  avatar = 'nanxiaobei@gmail.com'
-  name = 'Lee'
-  bio = 'Discover fresh context'
+  avatar = '841033314@qq.com'
+  name = '又延'
+  bio = '名柯死忠粉、水平一般的同人文写手、幼儿园水平画手'
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
