@@ -1,3 +1,13 @@
-  {{ template "_internal/google_analytics_async.html" . }}
+ {{ if not .IsSection }}
+<script src="https://utteranc.es/client.js"
+        repo="cuidi1996/cuidi1996.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+ {{ end }}
+
+{{ template "_internal/google_analytics_async.html" . }}
 </body>
 </html>
