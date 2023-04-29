@@ -1,0 +1,31 @@
+
+{{ if not .IsSection }}
+<script src="https://utteranc.es/client.js"
+        repo="cuidi1996/cuidi1996.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+ {{ end }}
+
+<footer
+  class="opaco mx-auto flex h-[5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60"
+>
+
+  <div class="mr-auto">
+    &copy; {{ now.Year }}
+    <a class="link" href="{{ `` | absURL }}">{{ site.Title }}</a>
+  </div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >Powered by Hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >Theme Paper</a
+  >
+  
+</footer>
