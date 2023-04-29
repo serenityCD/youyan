@@ -31,6 +31,13 @@ title = "又延"
 
 [menu]
 
+    [[menu.main]]
+    identifier = "post"
+    name = "post"
+    url = "https://serenitycd.github.io/youyan/"
+    weight = 10
+
+
   [[menu.main]]
     identifier = "about"
     name = "About"
@@ -41,6 +48,7 @@ title = "又延"
     name = "Contact"
     url = "/contact/"
     weight = 10
+
 
 [taxonomies]
 category = "categories"
