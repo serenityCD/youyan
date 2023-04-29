@@ -9,7 +9,7 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [params]
-  sitename = "Black & Light"
+  sitename = "又延 You Yan"
   disableWebFonts = false
 
 [[menu.main]]
@@ -18,7 +18,5 @@ pygmentscodefences  = true
 [[menu.main]]
     name = "Projects"
     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
-[[menu.main]]
-    name = "Resume"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+
 
