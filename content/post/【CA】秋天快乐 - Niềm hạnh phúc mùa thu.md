@@ -1,5 +1,5 @@
 +++
-author = "Arrebol老师"
+author = "Arrebol"
 title = "【CA】秋天快乐 - Niềm hạnh phúc mùa thu"
 date = "2021-10-04"
 description = "Lorem Ipsum Dolor Si Amet"
