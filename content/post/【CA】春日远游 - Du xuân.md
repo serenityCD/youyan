@@ -1,6 +1,6 @@
 +++
 author = "Arrebol"
-title = "【CA】春日远游 - Du xuân"
+title = "【CA】春日远游-Du xuân"
 date = "2019-09-14"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
@@ -8,8 +8,7 @@ tags = [
 ]
 +++
 
-[Arrebol老师](https://carpediem0501.lofter.com)  将我的一些作品翻译成了越南语版本，再此非常感谢，也一并贴出来
-
+Arrebol老师 将我的一些作品翻译成了越南语版本，再此非常感谢，也一并贴出来
 
 
 
